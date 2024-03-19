@@ -1,5 +1,5 @@
 Caso de Estudio Billar
-Grupo Conformado por
+Grupo Conformado por:
 Humberto Pinilla Robayo
 William David Suarez Briceño
 Daniel Esteban Contreras Motoa
